@@ -1283,3 +1283,13 @@ Host desconocido.
 [2025.08.05-21.46.28:047][370]LogSlate: Window 'VRSpectator' being destroyed
 [2025.08.05-21.46.56:860][631]LogSlate: Took 0.007390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.08.05-21.47.28:547][ 64]LogSlate: Window 'Guardar nivel como' being destroyed
+[2025.08.05-21.52.28:926][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2959.389648
+[2025.08.05-21.52.29:927][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-21.52.29:927][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2960.057129, Update Interval: 338.826874
+[2025.08.05-21.58.56:279][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3346.736328
+[2025.08.05-21.58.57:280][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-21.58.57:280][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3347.403076, Update Interval: 335.653564
+[2025.08.05-22.05.05:634][662]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.05-22.05.23:970][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3734.426025
+[2025.08.05-22.05.24:970][720]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-22.05.24:970][720]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3735.092773, Update Interval: 322.255310
